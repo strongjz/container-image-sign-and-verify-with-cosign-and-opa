@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/docker/cli v20.10.0-beta1.0.20201117192004-5cc239616494+incompatible // indirect
-	github.com/docker/docker v20.10.0-beta1.0.20201110211921-af34b94a78a1+incompatible // indirect
+	github.com/docker/docker v20.10.24+incompatible // indirect
 	github.com/google/go-containerregistry v0.5.1
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/sigstore/cosign v0.6.1-0.20210713005353-82d49dcf3b8b
